@@ -1,0 +1,57 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.wingconn"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.wingconn"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.wingconn"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.wingconn"
+        },
+        "cordova-plugin-camera": {
+            "CAMERA_USAGE_DESCRIPTION": " ",
+            "PHOTOLIBRARY_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "com.wingconn"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.wingconn"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.wingconn"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.wingconn"
+        },
+        "cordova-plugin-themeablebrowser": {
+            "PACKAGE_NAME": "com.wingconn"
+        },
+        "cordova-plugin-x-toast": {
+            "PACKAGE_NAME": "com.wingconn"
+        },
+        "phonegap-plugin-barcodescanner": {
+            "CAMERA_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "com.wingconn"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.wingconn"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "$(PRODUCT_BUNDLE_IDENTIFIER)"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "$(PRODUCT_BUNDLE_IDENTIFIER)"
+        }
+    },
+    "dependent_plugins": {}
+}

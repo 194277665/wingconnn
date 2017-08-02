@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!--<meta http-equiv="Content-Security-Policy" content="default-src 'self' data: gap: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">-->
+        <meta name="format-detection" content="telephone=no">
+        <meta charset="utf-8">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width">
+        <title>AAS Login</title>
+    </head>
+    <body>
+        <div class="login-logo">
+            <img src="assets/images/login-logo.png" width="120"/><br/>
+            <img src="assets/images/login-title.png" width="20"/>
+        </div>
+        <div class="login-btn-area"><button class="button login-btn" onclick="initWebsoket()">登录</button></div>
+        <link rel="stylesheet" href="assets/css/login.css"/>
+        <link rel="stylesheet" href="assets/css/wingconn.css"/>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="assets/js/jquery.min.js"></script>
+        <script type="text/javascript" src="assets/js/login.js"></script>
+        <script>
+          window.onload = function () {
+            if(cordova.platformId != 'ios'){
+              checkSessionIndex();
+            }
+          }
+        </script>
+    </body>
+</html>

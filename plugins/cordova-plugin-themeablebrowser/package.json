@@ -1,0 +1,120 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-themeablebrowser",
+        "scope": null,
+        "escapedName": "cordova-plugin-themeablebrowser",
+        "name": "cordova-plugin-themeablebrowser",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/gaomneng/Desktop/wingconn/node_modules"
+    ]
+  ],
+  "_cnpm_publish_time": 1469830983293,
+  "_from": "cordova-plugin-themeablebrowser@latest",
+  "_hasShrinkwrap": false,
+  "_id": "cordova-plugin-themeablebrowser@0.2.17",
+  "_inCache": true,
+  "_location": "/cordova-plugin-themeablebrowser",
+  "_nodeVersion": "5.0.0",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-themeablebrowser-0.2.17.tgz_1469830980092_0.6056331214495003"
+  },
+  "_npmUser": {
+    "name": "likemindnetworks",
+    "email": "shen@likemindnetworks.com"
+  },
+  "_npmVersion": "3.3.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-themeablebrowser",
+    "scope": null,
+    "escapedName": "cordova-plugin-themeablebrowser",
+    "name": "cordova-plugin-themeablebrowser",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/cordova-plugin-themeablebrowser/download/cordova-plugin-themeablebrowser-0.2.17.tgz",
+  "_shasum": "e55ba5da37694d51e61a06949580040dc9b69d7c",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-themeablebrowser",
+  "_where": "/Users/gaomneng/Desktop/wingconn/node_modules",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bugs": {
+    "url": "https://github.com/initialxy/cordova-plugin-themeablebrowser/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-themeablebrowser",
+    "platforms": [
+      "android",
+      "amazon-fireos",
+      "ubuntu",
+      "ios",
+      "wp7",
+      "wp8",
+      "windows8",
+      "windows",
+      "firefoxos"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova ThemeableBrowser Plugin",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "e55ba5da37694d51e61a06949580040dc9b69d7c",
+    "size": 308859,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/cordova-plugin-themeablebrowser/download/cordova-plugin-themeablebrowser-0.2.17.tgz"
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.1.0"
+    }
+  ],
+  "gitHead": "faefc755032cb057d158a9c203e59242c5e873a0",
+  "homepage": "https://github.com/initialxy/cordova-plugin-themeablebrowser#readme",
+  "keywords": [
+    "cordova",
+    "in",
+    "app",
+    "browser",
+    "themeablebrowser",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "Apache 2.0",
+  "maintainers": [
+    {
+      "name": "initialxy",
+      "email": "initialxy@gmail.com"
+    },
+    {
+      "name": "likemindnetworks",
+      "email": "shen@likemindnetworks.com"
+    }
+  ],
+  "name": "cordova-plugin-themeablebrowser",
+  "optionalDependencies": {},
+  "publish_time": 1469830983293,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/initialxy/cordova-plugin-themeablebrowser.git"
+  },
+  "scripts": {},
+  "version": "0.2.17"
+}
